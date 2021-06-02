@@ -7,7 +7,7 @@ Pada praktikum yang ke-8 ini kita akan membahas mengenai PHP lanjutan, yaitu ten
  1. ***Create***
  , fungsi CRUD yang pertama adalah _create_ yang digunakan untuk membuat _record_ baru dalam _database_. Dalam aplikasi SQL, fungsi _create_ sering disebut juga sebagai **_insert_** (menambahkan).
  2. ***Read***
- , fungsi _read_ hampir mirip dengan fungsi _search_. Fungsi ini memungkinkan untuk mencari dan mengambil data tertentu dalam tabel dan membaca nilainya.
+ , fungsi _read_ hampir mirip dengan fungsi _search_. Fungsi ini memungkinkan untuk mencari dan menampilkan data tertentu dalam tabel dan membaca nilainya.
 3. ***Update***
  , fungsi *update* digunakan untuk memodifikasi atau mengubah record data yang telah tersimpan pada database.
 4. ***Delete***
