@@ -9,16 +9,16 @@ Pada praktikum yang ke-8 ini kita akan membahas mengenai PHP lanjutan, yaitu ten
  2. ***Read***
  , fungsi _read_ hampir mirip dengan fungsi _search_. Fungsi ini memungkinkan untuk mencari dan menampilkan data tertentu dalam tabel dan membaca nilainya.
 3. ***Update***
- , fungsi *update* digunakan untuk memodifikasi atau mengubah record data yang telah tersimpan pada database.
+ , fungsi *update* digunakan untuk memodifikasi atau mengubah _record_ data yang telah tersimpan pada database.
 4. ***Delete***
 , ketika ada _record_ data yang tidak lagi dibutuhkan dalam _database_, fungsi CRUD yang digunakan adalah fungsi _delete._ Fungsi ini dapat digunakan untuk menghapus data tersebut.
 
 Untuk penjelasan lebih lanjut akan dibahas dan dicontohkan sebagai berikut.
 
 ### Persiapan Membuat Database pada MySQL PHP MyAdmin
-Sebelum mengakses MySQL Client menggunakan PHP MyAdmin, pastikan webserver Apache dan MySQL server sudah dijalankan. Kemudian buka melalui browser.
+Sebelum mengakses MySQL Client menggunakan PHP MyAdmin, pastikan web server Apache dan MySQL server sudah dijalankan. Kemudian buka melalui browser.
 
-Selajutnya ketik kode pada menu SQL untuk membuat database. Kita akan membuat database dengan nama **latihan1**, seperti berikut.
+Selanjutnya ketik kode pada menu SQL untuk membuat database. Kita akan membuat database dengan nama **latihan1**, seperti berikut.
 
 ![enter image description here](https://github.com/kameliacindy/Lab8Web/blob/main/img/membuat_db.PNG)
 
