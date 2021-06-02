@@ -5,7 +5,9 @@ Pada praktikum yang ke-8 ini kita akan membahas mengenai PHP lanjutan, yaitu ten
 **CRUD** adalah singkatan dari _Create, Read, Update, dan Delete_.
 
  1. ***Create***
+ 
  Fungsi CRUD yang pertama adalah ***create***. Fungsi ini digunakan untuk membuat _record_ baru dalam _database_. Dalam aplikasi SQL, fungsi _create_ sering disebut juga sebagai **_insert_** (menambahkan).
+ 
  2. ***Read***
  Fungsi _read_ hampir mirip dengan fungsi _search_. Fungsi ini memungkinkan untuk mencari dan mengambil data tertentu dalam tabel dan membaca nilainya.
 3. ***Update***
