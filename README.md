@@ -51,7 +51,7 @@ Apabila berhasil terkoneksi, maka akan terdapat pesan "koneksi berhasil" seperti
 
 ![enter image description here](https://github.com/kameliacindy/Lab8Web/blob/main/img/ss_koneksi.PNG)
 
-Dari pesan tersebut, maka database mySQL sudah terkonkesi dengan web server.
+Dari pesan tersebut, maka database mySQL sudah terkoneksi dengan web server.
 
 ## READ (Menampilkan Data)
 
